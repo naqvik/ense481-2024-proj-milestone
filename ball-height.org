@@ -1,0 +1,11 @@
+* Ball-Height control system
+Project specific requirements to be done by the milestone date
+
+1. Implement the servo-positioning code as described in lab3 (servo)
+
+2. Implement distance measurement as described in lab4 (distance
+   sensor).  I have sent this documentation to you via email
+
+   - this includes manually plotting the voltage-position curve for
+     your tube
+
