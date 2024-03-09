@@ -1,0 +1,12 @@
+* LED animation
+Project specific requirements to be done by the milestone date
+
+1. Move all your work from three repos into a single repository,
+   preserving full history
+
+2. Incorporate Bluetooth, either
+   - between nucleo-f103rb and display, or
+   - between keyboard and nucleo-f103rb
+   - or talk with me about where this is going
+
+3. have the 8x8 display working
