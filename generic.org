@@ -7,6 +7,7 @@ These are applicable to all the projects
    a CLI invocation.  If that's not practicable (I'm thinking of the
    flybrix projects) then find a way that the firmware can be forced
    to emit this information.
+
 2. You shall identify the modules (i.e the main subsystems) in your
    project.  The module interfaces shall be documented using [[https://www.doxygen.nl/index.html][doxygen]]
    or equivalent.
@@ -14,6 +15,9 @@ These are applicable to all the projects
 3. The project *main* file shall contain a header comment that
    incorporates the suggestions from Nigel Jones's [[https://embeddedgurus.com/stack-overflow/2013/02/whats-in-your-main-header/][blog entry]]: /What's
    in your main() header?/
+
+4. You should consider any updates that need to be made to your
+   original project documents.
 
 ** Project-Specific
 *** [[file:./ball-height.org][Ball-Height]] control system
