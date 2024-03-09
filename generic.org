@@ -14,3 +14,9 @@ These are applicable to all the projects
 3. The project *main* file shall contain a header comment that
    incorporates the suggestions from Nigel Jones's [[https://embeddedgurus.com/stack-overflow/2013/02/whats-in-your-main-header/][blog entry]]: /What's
    in your main() header?/
+
+** Project-Specific
+*** [[file:./ball-height.org][Ball-Height]] control system
+*** [[file:./drones.org][Flybrix drones]]
+*** [[file:./power.org][Power Consumption]]
+*** [[file:./led-animation.org][LED animation]]
