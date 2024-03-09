@@ -1,0 +1,16 @@
+* ENSE481 Milestone: [2024-03-20 Wed]
+** Generic Requirements
+These are applicable to all the projects
+
+1. The firmware shall embed a version number and build date.  This
+   information shall be retrievable by the user through, for example,
+   a CLI invocation.  If that's not practicable (I'm thinking of the
+   flybrix projects) then find a way that the firmware can be forced
+   to emit this information.
+2. You shall identify the modules (i.e the main subsystems) in your
+   project.  The module interfaces shall be documented using [[https://www.doxygen.nl/index.html][doxygen]]
+   or equivalent.
+
+3. The project *main* file shall contain a header comment that
+   incorporates the suggestions from Nigel Jones's [[https://embeddedgurus.com/stack-overflow/2013/02/whats-in-your-main-header/][blog entry]]: /What's
+   in your main() header?/
