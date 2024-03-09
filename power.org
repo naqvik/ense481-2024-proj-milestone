@@ -1,0 +1,17 @@
+* Analyzing and controlling power consumption
+Project specific requirements to be done by the milestone date
+
+1. Have an estimate of expected power consumption for your system, in
+   all its modes of operation.
+
+2. Have the test equipment up and running, and demo this.
+
+3. You need to be running some sort of application, in addition to
+   your test code.  If you have a clear idea of the application, fine,
+   but if not may I suggest using the IMU breakout board to display
+   your current roll and pitch on the screen.  You could also
+   incorporate the magnetometer to show yaw.  You can use available
+   libraries for quick startup.
+   - this also enables experimenting with turning an external device
+     on/off
+
