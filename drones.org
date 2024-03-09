@@ -1,0 +1,8 @@
+* Flybrix drones
+Project specific requirements to be done by the milestone date
+
+1. Demonstrate communication between the drone and an external unit
+   (could be the hand controller? or something else)
+
+2. Identify the channels and their limitations.  Can they be used to
+   send human-readable information?  (a long shot, I know)
